@@ -1,7 +1,7 @@
 # DIP-based-on-Matlab
 基于Matlab工具的数字图像处理
 
-[toc]
+[@toc]
 
 ## 1 Matlab基础
 ### 1.1 矩阵
