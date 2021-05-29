@@ -22,6 +22,5 @@ clc,clear,close;
 x = 0:0.001*pi:10*pi;
 y = sin(x);
 z = cos(x);
-% comet3(x,y,z)
 plot3(x,y,z)
 
